@@ -10,7 +10,7 @@
 2. **ADB Exploitation** — Leveraging exposed Android Debug Bridge (port 5555)
    to gain remote shell access to Android devices that have ADB over TCP/IP
    enabled without authentication.
-# For questions, issues, complete access or contributions:
+# For questions, full hacking tool, issues, complete access or contributions:
 
 Telegram: https://t.me/cyberhackgeek
 Email: darkhackgeek@gmail.com
